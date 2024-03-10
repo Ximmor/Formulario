@@ -163,4 +163,4 @@ function Formulario({ addAlert }) {
   );
 }
 
-export default Formulario;
+export default Formulario
